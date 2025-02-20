@@ -4,7 +4,7 @@
   <Version>3.0.0.0</Version>
   <ProviderName>Orion Technologies</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Do Not Encryptt"/>
+  <DisplayName DefaultValue="Don't Encrypt"/>
   <Description DefaultValue="Add an attachment to bypass the encryption filter."/>
   <IconUrl DefaultValue="https://orionreno.com/Packages/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://orionreno.com/Packages/assets/icon-128.png"/>
